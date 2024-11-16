@@ -17,4 +17,4 @@ Jupyter Notebooks for data exploration and visualization
 
 This project demonstrates my ability to work with health-related datasets, clean and analyze data, and produce meaningful visual insights, which are essential skills in health data research and analytics.
 
-Acknowledgments: Mention that the dataset is publicly available from U.S. health agencies.
+Acknowledgments: The dataset is publicly available from U.S. health agencies.
